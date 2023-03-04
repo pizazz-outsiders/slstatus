@@ -69,5 +69,5 @@ static const struct arg args[] = {
     // { run_command,     "📢 %s|",       "" },
     { wifi_essid,      "🛜 %s|",       "wlan0" },
     { battery_perc,    "🔋 %s %%|",    "BAT0" },
-	{ datetime,        "📅 %s  ",      "%F %T" },
+	{ datetime,        "📅 %s",      "%F %T" },
 };
